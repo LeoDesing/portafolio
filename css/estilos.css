@@ -387,11 +387,35 @@ footer .contenedor .youtube:hover{
     footer .contenedor .formulario input[type="email"]{
         width: 100%;
 }
+    
+ 
+ @media screen and (max-width: 380px){
+
+    header .contenedor-texto{
+        width: 100%;
+        margin: 0 auto;
+        padding: 50px 0px 100px 0px;
+    }
+
+    header .menu{
+        width: 80%;
+    }
+
+    footer .contenedor .formulario input[type="nombre"]{
+        width: 100%;
+    }
+
+    footer .contenedor .formulario input[type="email"]{
+        width: 100%;
+    }
+}
+    
+    
 
 
 @media screen and (max-width: 320px){
     header .contenedor-texto{
-        width: 100%;
+        width: 50%;
         margin: auto;
         padding: 50px 0px;
     }
