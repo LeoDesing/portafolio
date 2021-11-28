@@ -1,0 +1,25 @@
+.container .hola1{
+    background: blueviolet;
+    width: 300px;
+    height: 50px;
+    margin: 10px;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.naranja{
+    background: tomato;
+    width: 300px;
+    height: 50px;
+    margin: 10px;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
